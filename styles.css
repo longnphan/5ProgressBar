@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+}
+
+button {
+  margin-top: 5px;
+  font-size: 1rem;
+}
+
+.progress-bar {
+  height: 40px;
+  width: 400px;
+  background-color: lightgray;
+}
+
+.status-update {
+  height: 40px;
+  width: 0%;
+  background-color: black;
+}
